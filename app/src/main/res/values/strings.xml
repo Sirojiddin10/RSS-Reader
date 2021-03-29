@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="title">Title</string>
+    <string name="published_date">Published Date</string>
+    <string name="content">Content</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_connection">No connection</string>
+</resources>
